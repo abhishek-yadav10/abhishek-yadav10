@@ -2,9 +2,12 @@
 
   <h1 align="center">Hi 👋, I'm Abhishk Yadav</h1>
   <h3 align="center">Software Developer | DSA Enthusiast | Cloud Computing Enthusiast</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=600&lines=Aspiring+Software+Developer;Full-Stack+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+New+Things;React.js+%26+Java+Developer" alt="Typing Animation" />
-</div>
 
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;Full-Stack+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+New+Things;React.js+%26+Java+Developer" alt="Typing Animation" />
+  </div>
+
+</div>
 <!-- Social & Profile Links -->
 <div align="center">
   <!-- LinkedIn -->
@@ -129,3 +132,4 @@ seeking:
   <a href="mailto:abhishek.j.yadav10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 ---
+
