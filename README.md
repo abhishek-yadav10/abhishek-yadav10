@@ -80,46 +80,43 @@ seeking:
 ----
 
 
-### 📊 GitHub Activity & Stats
+## 📊 GitHub Activity & Stats
 
 <div align="center">
 
 <br>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhishek-yadav10&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Abhishek's GitHub Stats" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abhishek-yadav10&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="400" alt="Abhishek's GitHub Stats"/>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-yadav10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" alt="Abhishek's Most Used Languages" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-yadav10&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="400" alt="Abhishek's Top Languages"/>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishek-yadav10&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" height="155" alt="Abhishek's GitHub Streak Stats" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-yadav10&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&radius=16" height="300" alt="Abhishek's Activity Graph" />
-</p>
+<img src="https://streak-stats.demolab.com?user=abhishek-yadav10&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="500" alt="Abhishek's GitHub Streak Stats"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-yadav10&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&radius=16" width="100%" alt="Abhishek's GitHub Activity Graph"/>
 
 </div>
 
+---
 
-----------
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-yadav10&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  
-  <br>
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-yadav10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=abhishek-yadav10&label=Profile%20Views&color=bb9af7&style=for-the-badge" alt="Profile Views"/>
 </p>
----
+
 
 ### 🤝 Let's Connect!
 
